@@ -1,0 +1,6 @@
+setuptools
+wheel
+python-dotenv
+notebook
+pandas
+matplotlib
