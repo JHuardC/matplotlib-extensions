@@ -2,3 +2,5 @@ notebooks/.ipynb_checkpoints
 **/__pycache__
 .vscode/
 .env
+**/*.png
+**/*.egg-info
